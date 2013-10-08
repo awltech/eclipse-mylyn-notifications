@@ -2,7 +2,7 @@
 <feature
       id="com.worldline.mylyn.notifications.feature"
       label="Mylyn Notifications Implementation"
-      version="1.0.0.qualifier"
+      version="1.0.1.qualifier"
       provider-name="Worldline.com">
 
    <description url="http://www.example.com/description">

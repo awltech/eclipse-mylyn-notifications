@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.worldline.mylyn.notifications</groupId>
   <artifactId>com.worldline.mylyn.notifications.parent</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>eclipse-mylyn-notifications parent</name>
   
