@@ -9,6 +9,7 @@ import org.eclipse.swt.widgets.Control;
  * Control object.
  * 
  * @see FormAttachment
+ * @see FormData
  * 
  * @author Maxence Vanbésien (mvaawl@gmail.com)
  * @since 1.0
