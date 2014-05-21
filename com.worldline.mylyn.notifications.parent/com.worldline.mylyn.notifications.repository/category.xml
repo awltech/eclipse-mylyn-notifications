@@ -3,5 +3,8 @@
    <description name="Eclipse Mylyn Notification System">
       Eclipse Mylyn Notification System
    </description>
-   <feature url="features/com.worldline.mylyn.notifications.feature_1.0.1.qualifier.jar" id="com.worldline.mylyn.notifications.feature" version="1.0.1.qualifier"/>
+   <feature url="features/com.worldline.mylyn.notifications.feature_1.0.1.qualifier.jar" id="com.worldline.mylyn.notifications.feature" version="1.0.1.qualifier">
+      <category name="Mylyn-extracted Notification Framework"/>
+   </feature>
+   <category-def name="Mylyn-extracted Notification Framework" label="Mylyn-extracted Notification Framework"/>
 </site>
